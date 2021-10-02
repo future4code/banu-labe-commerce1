@@ -20,15 +20,15 @@ O QUE FUNCIONA:
 - Acréscimos de pedidos no carrinho,
 - Nomes dos produtos,
 - Página de checkout com quantidade total de valor do produtos,
-- adicionar ou remover produtos dos carrinhos,
-- botão esvaziar carrinho,
+- Adicionar ou remover produtos dos carrinhos,
+- Botão esvaziar carrinho,
 
 
 DESENVOLVEDORES:
 
 Caio Chamarelli; 
 João H Junior; 
-Karine rebelatto; 
+Karine Rebelatto; 
 
 
 Link do SURGE:
