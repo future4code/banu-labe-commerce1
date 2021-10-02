@@ -26,13 +26,13 @@ O QUE FUNCIONA:
 
 DESENVOLVEDORES:
 
-Caio Chamarelli; 
+=> Caio Chamarelli; 
 
-João H Junior; 
+=> João H Junior; 
 
-Karine Rebelatto; 
+=> Karine Rebelatto; 
 
 
-Link do SURGE:
+LINK DO SURGE:
 
 http://fair-treatment.surge.sh/
