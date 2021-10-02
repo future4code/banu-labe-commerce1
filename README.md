@@ -27,7 +27,9 @@ O QUE FUNCIONA:
 DESENVOLVEDORES:
 
 Caio Chamarelli; 
+
 João H Junior; 
+
 Karine Rebelatto; 
 
 
