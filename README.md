@@ -17,18 +17,18 @@ O QUE FUNCIONA:
 
 - Cards dispostos na interface,
 - Botões Cart para selecionar pedido,
-- Acréscimos de pedidos no carrinho
+- Acréscimos de pedidos no carrinho,
 - Nomes dos produtos,
 - Página de checkout com quantidade total de valor do produtos,
 - adicionar ou remover produtos dos carrinhos,
-- botão esvaziar carrinho
+- botão esvaziar carrinho,
 
 
 DESENVOLVEDORES:
 
-Caio Chamarelli
-João H Junior
-Karine rebelatto
+Caio Chamarelli; 
+João H Junior; 
+Karine rebelatto; 
 
 
 Link do SURGE:
